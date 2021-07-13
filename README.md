@@ -25,7 +25,7 @@
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin"/> </a>
     <a href="#" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png"  width="48" height="48"/> </a>
      <a href="#" target="_blank"> <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"  width="48" height="48"/> </a>
-      <a href="#" target="_blank"> <img src="https://www.globetesting.com/wp-content/uploads/2019/01/logoeclipse2.png"  width="48" height="48"/> </a>
+      <a href="#" target="_blank"> <img src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200"  width="48" height="48"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"  width="48" height="48"/></a> </a> 
      <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
