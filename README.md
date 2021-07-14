@@ -83,4 +83,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=tauzxd">
 </a>
-<a href="https://github.com/tauzxd?tab=followers"><img src="https://img.shields.io/github/followers/tauzxd?label=Followers&style=social" alt="GitHub Badge"></a>
+<!--<a href="https://github.com/tauzxd?tab=followers"><img src="https://img.shields.io/github/followers/tauzxd?label=Followers&style=social" alt="GitHub Badge"></a>-->
