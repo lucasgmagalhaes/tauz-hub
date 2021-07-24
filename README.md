@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]** "under development"
+- 👨‍💻 All of my projects are available at **[My Portfolio(under development)]** 
 
 - 📫 How to reach me **tauasantops@gmail.com**
 
