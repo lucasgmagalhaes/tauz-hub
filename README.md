@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tauasantops@gmail.com**
 
-- ⚡ Fun fact **I play and play the piano to soothe my soul.**
+- ⚡ Fun fact **I play piano to soothe my soul.**
 
 ## 🚀 Languages and Tools:
 
