@@ -70,11 +70,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://discordapp.com/users/454059471765766156/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = "https://discordapp.com/users/454059471765766156/"><img src="https://w7.pngwing.com/pngs/942/98/png-transparent-discord-computer-icons-teamspeak-computer-servers-others-miscellaneous-blue-smiley.png"/></a>
 
 </p>
 
