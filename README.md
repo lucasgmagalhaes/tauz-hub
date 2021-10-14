@@ -70,7 +70,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://discordapp.com/users/454059471765766156/"><img src="https://w7.pngwing.com/pngs/942/98/png-transparent-discord-computer-icons-teamspeak-computer-servers-others-miscellaneous-blue-smiley.png"/></a>
+<a href = "https://discordapp.com/users/454059471765766156/"><img width="100" height="34" src="https://cdn.arstechnica.net/wp-content/uploads/2017/08/Discord-LogoWordmark-Color.png"/></a>
 
 </p>
 
