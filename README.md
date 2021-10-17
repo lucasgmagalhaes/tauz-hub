@@ -30,13 +30,14 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a>
+    <a style="padding-right:8px;" href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a>
     <a href="https://rockcontent.com/br/blog/sqlite/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank" > <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"  width="48" height="48"/> </a> 
    <a align="center"href="https://www.adobe.com/br/products/photoshop/" target="_blank" > <img src="https://i.pinimg.com/originals/31/02/38/31023806400284920008d8ebd24a2218.png"  width="48" height="48"/> </a> 
     <a href="https://www.adobe.com/br/products/illustrator" target="_blank" > <img src="https://icons.iconarchive.com/icons/killaaaron/adobe-cc-circles/512/Adobe-Ai-icon.png"  width="48" height="48"/> </a> 
+     <a href="https://handlebarsjs.com/" target="_blank" > <img src="https://cdn.iconscout.com/icon/free/png-256/handlebars-282936.png"  width="48" height="48"/> </a> 
    
    
 </p>
