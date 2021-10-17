@@ -38,11 +38,12 @@
    <a align="center"href="https://www.adobe.com/br/products/photoshop/" target="_blank" > <img src="https://i.pinimg.com/originals/31/02/38/31023806400284920008d8ebd24a2218.png"  width="48" height="48"/> </a> 
     <a href="https://www.adobe.com/br/products/illustrator" target="_blank" > <img src="https://icons.iconarchive.com/icons/killaaaron/adobe-cc-circles/512/Adobe-Ai-icon.png"  width="48" height="48"/> </a> 
      <a href="https://handlebarsjs.com/" target="_blank" > <img src="https://cdn.iconscout.com/icon/free/png-256/handlebars-282936.png"  width="48" height="48"/> </a> 
+    <a href="https://ejs.co/" target="_blank" > <img src="https://i.imgur.com/D7Yj6zz.png"  width="48" height="48"/> </a> 
    
    
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
 <br/>
 
 <p align="center">
