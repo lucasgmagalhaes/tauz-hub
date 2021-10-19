@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tauz</h1>
 <h3 align="center">I'm passionate about all kinds of technologies and I'm always looking for more information about this area that is simply wonderful.</h3>
 
-
+<!--
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **with some freelancers**
@@ -15,7 +15,7 @@
 - 📫 How to reach me **tauasantops@gmail.com**
 
 - ⚡ Fun fact **I play piano to soothe my soul.**
-
+-->
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
