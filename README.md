@@ -47,7 +47,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/tauzxd/tauzxd.git">
+    <a href="https://github.com/tauz-hub/tauz-hub.git">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tauz streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tauzxd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -55,8 +55,8 @@
 ## 📊 My Github Stats
 
   <br/>
-  <a href="https://github.com/tauzxd/tauzxd.git"><img alt="Tauz Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tauzxd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tauzxd/tauzxd.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauzxd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tauz-hub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauz-hub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/tauzxd/tauzxd.git"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=tauzxd&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=tauz-hub&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -78,6 +78,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tauzxd">
+    <img src="https://komarev.com/ghpvc/?username=tauz-hub">
 </a>
-<!--<a href="https://github.com/tauzxd?tab=followers"><img src="https://img.shields.io/github/followers/tauzxd?label=Followers&style=social" alt="GitHub Badge"></a>-->
+<!--<a href="https://github.com/tauz-hub?tab=followers"><img src="https://img.shields.io/github/followers/tauz-hub?label=Followers&style=social" alt="GitHub Badge"></a>-->
